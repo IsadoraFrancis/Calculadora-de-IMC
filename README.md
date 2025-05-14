@@ -14,12 +14,6 @@ Esta aplicação foi criada como um **projeto de estudo e prática em desenvolvi
 
 ---
 
-## 🖼️ Preview
-
-![preview](preview.png) <!-- (Opcional: Substitua por um screenshot do seu app) -->
-
----
-
 ## 🚀 Funcionalidades
 
 - ✅ Interface limpa e responsiva.
